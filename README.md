@@ -65,8 +65,6 @@ The algorithm is heuristic: it searches for a good tour but does not guarantee t
 aco-tsp-optimizer/
 ├── index.html
 ├── README.md
-├── LICENSE.txt
-└── .gitignore
 ```
 
 ## Educational use
